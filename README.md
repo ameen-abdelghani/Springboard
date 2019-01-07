@@ -1,4 +1,4 @@
-![alt_text](https://lever-client-logos.s3.amazonaws.com/d3dff7b3-cda9-4dea-8369-e4a757ec81a1-1505217546657.png)
+(https://lever-client-logos.s3.amazonaws.com/d3dff7b3-cda9-4dea-8369-e4a757ec81a1-1505217546657.png)
 
 # Springboard Data Science Mini-Projects
 
